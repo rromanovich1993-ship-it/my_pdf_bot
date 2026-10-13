@@ -10,7 +10,7 @@ import requests
 from aiogram import Bot, Dispatcher, F
 from aiogram.types import Message, FSInputFile
 from dotenv import load_dotenv
-
+#wwdsddas
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 log = logging.getLogger(__name__)
 
